@@ -26,11 +26,55 @@
 
 **SHEIKH MOHAMMED SAQIB** is an independent AI systems engineer and the Founder & Chief AI Architect of **[iMpact AI](https://github.com/iMpacts-AI)**.
 
-His engineering philosophy bridges high-dimensional cognitive reasoning with native desktop operating system mechanics. While the majority of industry solutions remain constrained within web sandboxes and conversational chat widgets, **SHEIKH MOHAMMED SAQIB** focuses on building production-grade **sovereign autonomous agents**, **kinetic computer-use systems**, and **deterministic safety kernels** that operate directly across the Windows operating system at machine speed.
+His engineering discipline bridges high-dimensional cognitive reasoning with native desktop operating system mechanics. While the majority of industry solutions remain constrained within web sandboxes and conversational chat widgets, **SHEIKH MOHAMMED SAQIB** focuses on building production-grade **sovereign autonomous agents**, **kinetic computer-use systems**, and **deterministic safety kernels** that operate directly across the Windows operating system at machine speed.
 
 ---
 
-## 🏛️ Systems Architecture & Philosophy
+## 📜 What We Are About &bull; The Sovereign Manifesto
+
+At **iMpact AI**, we stand for three foundational pillars of modern autonomous computing:
+
+1. **Escaping the Sandbox:** Artificial intelligence must be liberated from passive chat text bubbles. It must become an active collaborator in your operating system—clicking buttons, navigating terminals, synthesizing telemetry, and operating native desktop software directly.
+2. **Deterministic Safety over Hope:** Probabilistic models cannot be trusted to self-police their destructive potential. All autonomous agency must be bounded by deterministic algorithmic filters, human-in-the-loop authorization checkpoints, and instant process-tree emergency stops.
+3. **Radical Sovereignty & Multi-Provider Resilience:** No system built for critical operations should ever collapse because a single cloud vendor rate-limited or suffered an outage. Intelligence must be federated, dynamic, and capable of hot-swapping across providers and offline heuristics without disruption.
+
+---
+
+## 💬 Founder Philosophy & Notable Quotes
+
+> ### On the Evolution of Agency:
+> *"Confining artificial intelligence to browser chat bubbles is like inventing electricity only to power flashlights. Real agency requires native operating system sovereignty."*  
+> &mdash; **SHEIKH MOHAMMED SAQIB**
+
+> ### On Deterministic Safety:
+> *"Probabilistic reasoning is the core engine of intelligence, but safety must remain strictly deterministic. Never ask a neural network to audit its own blast radius."*  
+> &mdash; **SHEIKH MOHAMMED SAQIB**
+
+> ### On Sovereign Architecture:
+> *"The single greatest threat to autonomous AI operations is single-provider dependency. When an API rate-limits or undergoes an outage, your digital nervous system collapses. Multi-sector sovereignty is non-negotiable."*  
+> &mdash; **SHEIKH MOHAMMED SAQIB**
+
+---
+
+## ✍️ Featured Essays & Monograph Series
+
+Technical publications authored by **SHEIKH MOHAMMED SAQIB** exploring agentic engineering, desktop actuation, and sovereign systems:
+
+* 📄 **[The Death of the Chatbot Sandbox: Why the Future Belongs to Kinetic Desktop AI](blogs/01-the-death-of-chatbots.md)**  
+  *An architectural critique of modern web-based chatbots and a blueprint for sub-25ms Win32 kinetic desktop OS agents.*
+  * `Topic: Kinetic Computer-Use & Desktop OS` &bull; `Read Time: 6 min`
+
+* 📄 **[Deterministic Safety Kernels: Governing Autonomous Computer-Use Agents at Machine Speed](blogs/02-deterministic-safety.md)**  
+  *Why LLM self-moderation is mathematically flawed, and how to implement zero-trust deterministic risk matrices and process-tree emergency kills.*
+  * `Topic: AI Safety & Governance` &bull; `Read Time: 5 min`
+
+* 📄 **[Sovereign Multi-Sector Intelligence: Overcoming the Single-Provider Bottleneck](blogs/03-sovereign-ai-routing.md)**  
+  *Designing the Quantum Sector Matrix: 10-provider dynamic failover routing and zero-cloud offline heuristic fallbacks.*
+  * `Topic: Distributed Inference & Resilience` &bull; `Read Time: 5 min`
+
+---
+
+## 🏛️ Systems Architecture & Flow
 
 ```mermaid
 flowchart TD
@@ -56,15 +100,6 @@ flowchart TD
 
     Principles ==> Ecosystem
 ```
-
-### 1. Kinetic Operating System Control
-Autonomous software must be able to interact with real software environments. By engineering native Win32 drivers (`user32.dll`), high-frequency screen perception (1080p frame pipelines), and asynchronous keyboard/mouse dispatchers, the system achieves sub-25ms actuation latency.
-
-### 2. Multi-Sector Neural Routing Fabric
-Eliminating fragile single-provider dependency bottlenecks. Architected an omnichannel AI routing fabric bridging over 10 frontier and local inference providers (OpenRouter, Groq, Google Gemini, GitHub Models, DeepSeek, and local offline heuristic engines) with dynamic fallback and automated failover.
-
-### 3. Deterministic Governance & Safety Containment
-Autonomous agents require rigorous guardrails. All actions pass through a deterministic risk evaluation matrix (`LOW`, `MEDIUM`, `HIGH`, `CRITICAL`), enforce human-in-the-loop authorization gates, and feature instant process-tree emergency kills (`taskkill /T /F /PID`).
 
 ---
 
