@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="./assets/impact-founder-logo.jpg" alt="Sheikh Mohammed Saqib - Founder & Architect" width="360" style="border-radius: 16px; margin-bottom: 24px;" />
+<img src="./assets/impact-founder-logo.jpg" alt="SHEIKH MOHAMMED SAQIB — Founder & Chief AI Systems Architect" width="380" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); margin-bottom: 24px;" />
 
-# Sheikh Mohammed Saqib
-### *Founder & Chief AI Systems Architect — iMpact AI*
+# SHEIKH MOHAMMED SAQIB
+### FOUNDER & CHIEF AI SYSTEMS ARCHITECT &bull; iMpact AI
 
-[![Organization](https://img.shields.io/badge/Organization-iMpact%20AI-00f0ff.svg)](https://github.com/iMpacts-AI)
-[![Flagship OS](https://img.shields.io/badge/Flagship-ORION%20OS-brightgreen.svg)](https://github.com/iMpacts-AI/ORION)
-[![Website](https://img.shields.io/badge/Website-impacts--ai.com-blue.svg)](https://impacts-ai.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-impact--ai-0A66C2.svg)](https://www.linkedin.com/in/impact-ai)
-[![Instagram](https://img.shields.io/badge/Instagram-@impacts__ai-E4405F.svg)](https://www.instagram.com/impacts_ai/)
-[![YouTube](https://img.shields.io/badge/YouTube-iMpact%20AI-FF0000.svg)](https://www.youtube.com/channel/UCGHBVNRNwYRRfY02yQqemPQ)
+[![Organization](https://img.shields.io/badge/ORGANIZATION-iMpact%20AI-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iMpacts-AI)
+[![Flagship OS](https://img.shields.io/badge/FLAGSHIP-ORION%20OS-brightgreen?style=for-the-badge)](https://github.com/iMpacts-AI/ORION)
+[![Website](https://img.shields.io/badge/PORTAL-IMPACTS--AI.COM-0052cc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://impacts-ai.com/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-IMPACT--AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/impact-ai)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-@IMPACTS__AI-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/impacts_ai/)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-IMPACT%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGHBVNRNwYRRfY02yQqemPQ)
 
 <br />
 
-> ### **NETWORK • REASON • IMPACT**
-> *"The future of artificial intelligence does not belong inside sandboxed browser tabs. It belongs to ambient, sovereign desktop operating systems capable of perceiving, reasoning, and acting directly across native computational environments."*
+> ### **NETWORK &bull; REASON &bull; IMPACT**
+> *"The future of computational intelligence will not take place inside browser chat windows. It belongs to ambient, sovereign desktop operating systems capable of perceiving, reasoning, and actuating directly across native environments with kinetic precision."*  
+> &mdash; **SHEIKH MOHAMMED SAQIB**
 
 ---
 
@@ -23,30 +24,30 @@
 
 ## 🌌 Executive Overview
 
-I am **Sheikh Mohammed Saqib**, an independent AI systems engineer and the founder of **[iMpact AI](https://github.com/iMpacts-AI)**. 
+**SHEIKH MOHAMMED SAQIB** is an independent AI systems engineer and the Founder & Chief AI Architect of **[iMpact AI](https://github.com/iMpacts-AI)**.
 
-My engineering discipline focuses on the frontier of **sovereign autonomous agents**, **kinetic computer-use systems**, and **deterministic safety architectures**. Rather than building reactive chatbots confined to chat windows, I design and build production-grade AI platforms that interface directly with operating system kernels, manipulate kinetic desktop inputs with millisecond precision, and execute complex autonomous workflows under deterministic safety constraints.
+His engineering philosophy bridges high-dimensional cognitive reasoning with native desktop operating system mechanics. While the majority of industry solutions remain constrained within web sandboxes and conversational chat widgets, **SHEIKH MOHAMMED SAQIB** focuses on building production-grade **sovereign autonomous agents**, **kinetic computer-use systems**, and **deterministic safety kernels** that operate directly across the Windows operating system at machine speed.
 
 ---
 
-## 🏛️ Core Principles & Architecture
+## 🏛️ Systems Architecture & Philosophy
 
 ```mermaid
-flowchart LR
-    subgraph Principles ["Guiding Philosophy"]
-        direction TB
-        N["NETWORK<br/>Distributed Multi-Model Compute"]
-        R["REASON<br/>Closed-Loop Observe-Plan-Act-Verify"]
-        I["IMPACT<br/>Kinetic Desktop OS Actuation"]
-        N --> R --> I
+flowchart TD
+    subgraph Principles ["CORE FOUNDATION &bull; SHEIKH MOHAMMED SAQIB"]
+        direction LR
+        P1["NETWORK<br/><b>Sovereign Multi-Model Compute</b>"]
+        P2["REASON<br/><b>Closed-Loop O-P-A-V Automation</b>"]
+        P3["IMPACT<br/><b>Kinetic Desktop OS Actuation</b>"]
+        P1 --> P2 --> P3
     end
 
-    subgraph Ecosystem ["iMpact AI Architecture"]
+    subgraph Ecosystem ["iMpact AI PRODUCT SUITE"]
         direction TB
-        ORION["ORION OS<br/>(Flagship Desktop AI Agent)"]
-        KINETIC["Kinetic OS Engine<br/>(Win32 Sub-25ms Actuation)"]
-        TITAN["TITAN Pipeline<br/>(Verifiable Build Automation)"]
-        SECTORS["Quantum Sector Matrix<br/>(Resilient 10-Provider Fabric)"]
+        ORION["ORION OS<br/><b>Flagship Autonomous Desktop AI</b>"]
+        KINETIC["Kinetic OS Engine<br/><b>Sub-25ms Win32 Native Automation</b>"]
+        TITAN["TITAN Pipeline<br/><b>Closed-Loop Production & Auditing</b>"]
+        SECTORS["Quantum Sector Matrix<br/><b>10-Provider Resilient AI Routing</b>"]
 
         ORION --> KINETIC
         ORION --> TITAN
@@ -56,55 +57,58 @@ flowchart LR
     Principles ==> Ecosystem
 ```
 
-### 1. Kinetic Desktop Control
-Computing power is wasted when AI cannot interact with real desktop software. Through native Win32 drivers (`user32.dll`), high-frequency optical frame perception (1080p capture), and structured keyboard/mouse dispatchers, my systems achieve verified sub-25ms desktop actuation.
+### 1. Kinetic Operating System Control
+Autonomous software must be able to interact with real software environments. By engineering native Win32 drivers (`user32.dll`), high-frequency screen perception (1080p frame pipelines), and asynchronous keyboard/mouse dispatchers, the system achieves sub-25ms actuation latency.
 
-### 2. Omnichannel Neural Resilience
-Single-provider dependency is a fatal architecture flaw. My platforms implement sovereign routing fabrics connecting over 10 model providers (OpenRouter, Groq, Gemini, GitHub Models, DeepSeek, plus offline heuristic engines) with dynamic fallback and automated failover.
+### 2. Multi-Sector Neural Routing Fabric
+Eliminating fragile single-provider dependency bottlenecks. Architected an omnichannel AI routing fabric bridging over 10 frontier and local inference providers (OpenRouter, Groq, Google Gemini, GitHub Models, DeepSeek, and local offline heuristic engines) with dynamic fallback and automated failover.
 
-### 3. Deterministic Safety & Governance
-Autonomous agency requires non-negotiable boundaries. Every action is evaluated across a deterministic risk matrix (`LOW`, `MEDIUM`, `HIGH`, `CRITICAL`), guarded by human authorization gates, and backed by instantaneous process-tree emergency kills (`taskkill /T /F /PID`).
+### 3. Deterministic Governance & Safety Containment
+Autonomous agents require rigorous guardrails. All actions pass through a deterministic risk evaluation matrix (`LOW`, `MEDIUM`, `HIGH`, `CRITICAL`), enforce human-in-the-loop authorization gates, and feature instant process-tree emergency kills (`taskkill /T /F /PID`).
 
 ---
 
-## 🚀 Flagship Creations
+## ⚡ Flagship Innovations
 
 ### 🌟 [ORION // Autonomous Desktop AI Operating System](https://github.com/iMpacts-AI/ORION)
-* **What it is:** The premier autonomous AI desktop operating system built for Windows.
-* **Key Innovations:**
-  * **3D Planetary Torus HUD:** Immersive spatial status interface engineered in Three.js and React 18.
-  * **Kinetic Computer-Use:** Native mouse movement, window manipulation, file exploration, and app automation.
+* **Status:** Flagship Production Platform
+* **Overview:** A full-fledged autonomous desktop AI assistant and computer-use agent.
+* **Core Capabilities:**
+  * **3D Planetary Torus HUD:** Spatial 3D telemetry and status visualization built with Three.js and React 18.
+  * **Kinetic Computer-Use:** Native mouse tracking, window management, application execution, and deep filesystem navigation.
   * **Zero-Leakage Security Boundary:** Hardened Chromium sandbox with context isolation separating cloud credentials from UI rendering.
-  * **Closed-Loop DAG Execution:** Multi-tool dependency graphs executing parallel read operations and sequential write mutations.
+  * **DAG Tool Parallelization:** Multi-tool dependency graphs executing parallel read-only operations and sequential mutating actions.
 
-### ⚡ [iMpact // Sovereign Intelligence Ecosystem](https://github.com/iMpacts-AI/iMpact)
-* **What it is:** The foundational framework and umbrella architecture powering the iMpact ecosystem.
+### 🔬 [iMpact // Sovereign Intelligence Ecosystem](https://github.com/iMpacts-AI/iMpact)
+* **Status:** Umbrella Architecture & Foundation
+* **Overview:** The sovereign technological ecosystem engineered by **SHEIKH MOHAMMED SAQIB**.
 * **Core Modules:**
-  * **Kinetic OS Engine:** Sub-25ms native input layer.
+  * **Kinetic OS Engine:** Sub-25ms native input layer and visual perception pipeline.
   * **TITAN Pipeline:** Continuous asset inspection, quality scoring, and automated release validation.
-  * **Quantum Sector Matrix:** Sovereign multi-model routing fabric.
+  * **Quantum Sector Matrix:** Resilient multi-provider routing fabric.
 
 ---
 
-## 🛠️ Technical Competencies & Arsenal
+## 🛠️ Technical Competencies & Specializations
 
-| Domain | Technologies & Frameworks |
+| Domain | Engineering Stack & Competencies |
 | :--- | :--- |
-| **Agentic AI & Orchestration** | Observe-Plan-Act-Verify loops, Tool Execution DAGs, Multimodal Vision, Cognitive Memory Stores |
-| **Desktop Systems & Runtimes** | Electron 33, Node.js (Main Process Architecture), Context Bridge IPC Isolation |
+| **Agentic AI & Orchestration** | Closed-Loop O-P-A-V (Observe-Plan-Act-Verify), Tool DAG Scheduling, Cognitive Memory Stores |
+| **Desktop Systems Architecture** | Electron 33, Node.js (Main Process Systems), Context Bridge IPC Security Hardening |
 | **Native Windows Engineering** | Win32 API (`user32.dll`), C# Native Input Drivers, Windows SAPI TTS, Process Tree Supervision |
-| **Frontend & Visualization** | TypeScript 5.7, React 18, Three.js, Vite 6, Tailwind CSS, Lucide Icons |
-| **Model Integration** | OpenRouter, Groq, Google Gemini, GitHub Models, DeepSeek, Local Heuristic Fallbacks |
-| **Security & Quality** | Deterministic Risk Governance, Secret Isolation, Empirical Test Automation (100% Pass Suites) |
+| **UI & 3D Spatial Graphics** | TypeScript 5.7, React 18, Three.js, Vite 6, Tailwind CSS, Lucide Icons |
+| **Inference & Routing** | OpenRouter, Groq, Google Gemini, GitHub Models, DeepSeek, Local Heuristic Fallbacks |
+| **Security & Quality Engineering** | Deterministic Risk Scoring, Process Tree Isolation, Secret Quarantine, Automated QA Suites |
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🌐 Official Channels & Contact
 
-I actively collaborate with engineers, researchers, and organizations pushing the limits of computer-use agents, ambient AI, and autonomous operating systems.
+Direct collaboration inquiries, research discussions, and ecosystem partnerships:
 
-* **GitHub (Organization):** [github.com/iMpacts-AI](https://github.com/iMpacts-AI)
-* **Website:** [impacts-ai.com](https://impacts-ai.com)
+* **Organization:** [github.com/iMpacts-AI](https://github.com/iMpacts-AI)
+* **Personal Founder Profile:** [github.com/iMpacts-AI/Sheikh-Mohammed-Saqib](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib)
+* **Official Website:** [impacts-ai.com](https://impacts-ai.com)
 * **LinkedIn:** [linkedin.com/in/impact-ai](https://www.linkedin.com/in/impact-ai)
 * **Instagram:** [@impacts_ai](https://www.instagram.com/impacts_ai)
 * **YouTube:** [iMpact AI Official Channel](https://www.youtube.com/channel/UCGHBVNRNwYRRfY02yQqemPQ)
@@ -113,6 +117,6 @@ I actively collaborate with engineers, researchers, and organizations pushing th
 
 <div align="center">
 
-<sub>Built with sovereign intent by <b>Sheikh Mohammed Saqib</b> &bull; Founder of <b>iMpact AI</b></sub>
+<sub>Designed, engineered, and maintained by <b>SHEIKH MOHAMMED SAQIB</b> &bull; Founder of <b>iMpact AI</b></sub>
 
 </div>
