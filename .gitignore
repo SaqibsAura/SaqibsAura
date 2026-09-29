@@ -1,0 +1,15 @@
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary & Log files
+*.log
+*.tmp
+*.bak
+
+# Node & Build artifacts (if any tools are added)
+node_modules/
+dist/
+build/
+.cache/
