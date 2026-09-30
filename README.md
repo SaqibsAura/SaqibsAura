@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-IMPACT--AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/impact-ai)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-@IMPACTS__AI-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/impacts_ai/)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-IMPACT%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGHBVNRNwYRRfY02yQqemPQ)
+[![Email](https://img.shields.io/badge/EMAIL-SAQIB%40IMPACTS--AI.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqib@impacts-ai.com)
 
 <br />
 
@@ -141,6 +142,7 @@ flowchart TD
 
 Direct collaboration inquiries, research discussions, and ecosystem partnerships:
 
+* **Direct Founder Email:** [saqib@impacts-ai.com](mailto:saqib@impacts-ai.com)
 * **Organization:** [github.com/iMpacts-AI](https://github.com/iMpacts-AI)
 * **Personal Founder Profile:** [github.com/iMpacts-AI/Sheikh-Mohammed-Saqib](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib)
 * **Official Website:** [impacts-ai.com](https://impacts-ai.com)
@@ -152,6 +154,6 @@ Direct collaboration inquiries, research discussions, and ecosystem partnerships
 
 <div align="center">
 
-<sub>Designed, engineered, and maintained by <b>SHEIKH MOHAMMED SAQIB</b> &bull; Founder of <b>iMpact AI</b></sub>
+<sub>Designed, engineered, and maintained by <b>SHEIKH MOHAMMED SAQIB</b> &bull; Founder of <b>iMpact AI</b> &bull; <a href="mailto:saqib@impacts-ai.com">saqib@impacts-ai.com</a></sub>
 
 </div>
