@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/impact-founder-logo.jpg" alt="SHEIKH MOHAMMED SAQIB — Founder & Chief AI Systems Architect" width="380" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); margin-bottom: 24px;" />
+<p align="center">
+  <img src="./assets/founder-photo.png" alt="SHEIKH MOHAMMED SAQIB — Founder & Chief AI Systems Architect" width="270" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); margin: 8px; vertical-align: middle;" />
+  <img src="./assets/impact-founder-logo.jpg" alt="SHEIKH MOHAMMED SAQIB — Network Reason Impact" width="270" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); margin: 8px; vertical-align: middle;" />
+</p>
 
 # SHEIKH MOHAMMED SAQIB
 ### FOUNDER & CHIEF AI SYSTEMS ARCHITECT &bull; iMpact AI
