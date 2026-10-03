@@ -29,29 +29,6 @@
 
 His engineering discipline bridges high-dimensional cognitive reasoning with native desktop operating system mechanics. While the majority of industry solutions remain constrained within web sandboxes and conversational chat widgets, **SHEIKH MOHAMMED SAQIB** focuses on building production-grade **sovereign autonomous agents**, **kinetic computer-use systems**, and **deterministic safety kernels** that operate directly across the Windows operating system at machine speed.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  saqib@impact-flagship                                                      │
-│  ─────────────────────────────────────────────────────────────────────────  │
-│         /\           OS: iMpact Sovereign AI OS [x86_64 / Win32]            │
-│        /  \          Host: Custom High-Performance Neural Node (Dubai)      │
-│       /\  /\         Kernel: Sub-25ms Win32 Kinetic Actuator (user32.dll)   │
-│      /  \/  \        Founder: Sheikh Mohammed Saqib                         │
-│     / /\__/\ \       Role: Founder & Chief AI Systems Architect             │
-│    / / /  \ \ \      Organization: iMpact AI (github.com/iMpacts-AI)        │
-│   / / / /\ \ \ \     Flagship: ORION OS (Autonomous Desktop Agent)          │
-│   \ \ \ \/ / / /     Principle: Real Capability > Appearance of Capability  │
-│    \ \ \__/ / /      Safety: Deterministic Zero-Trust Process Estop         │
-│     \ \____/ /       Routing: 10-Provider Quantum Sector Mesh               │
-│      \______/        Stack: TypeScript 5.7 • Node 22 • Electron 33 • Win32  │
-│     S A Q I B        Tests: 43/43 Automated Suites Passing (100%)           │
-│                      Shell: antigravity-cli (iMpact Single-Tab HQ)          │
-│                      Uptime: Continuous Sovereign Autonomy                  │
-│                                                                             │
-│                      ███ ███ ███ ███ ███ ███ ███ ███                        │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ## 📜 What We Are About &bull; The Sovereign Manifesto
