@@ -13,3 +13,13 @@ node_modules/
 dist/
 build/
 .cache/
+
+# Credentials & Environment Variables (EMP-008 Security Hardened)
+.env
+.env.*
+.env.local
+*.pem
+*.key
+*.cert
+*.crt
+*.pfx
