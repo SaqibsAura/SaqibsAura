@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/founder-photo.png" alt="Sheikh Saqib — Founder & Builder, iMpact" width="160" style="border-radius: 50%; border: 2px solid #2a2a38; box-shadow: 0 12px 36px rgba(0, 0, 0, 0.45); margin-bottom: 20px;" />
+<img src="https://raw.githubusercontent.com/iMpacts-AI/Sheikh-Mohammed-Saqib/main/assets/founder-photo.png" alt="Sheikh Saqib — Founder & Builder, iMpact" width="160" style="border-radius: 50%; border: 2px solid #2a2a38; box-shadow: 0 12px 36px rgba(0, 0, 0, 0.45); margin-bottom: 20px;" />
 
 # Sheikh Saqib
 
@@ -159,15 +159,15 @@ Governance & Safety  Deterministic E-Stop • Risk Matrix (4-Tier) • Secret Qu
 
 Long-form architectural monographs exploring desktop agency, safety theory, and distributed inference:
 
-* 📄 **[The Death of the Chatbot Sandbox: Why the Future Belongs to Kinetic Desktop AI](blogs/01-the-death-of-chatbots.md)**  
+* 📄 **[The Death of the Chatbot Sandbox: Why the Future Belongs to Kinetic Desktop AI](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib/blob/main/blogs/01-the-death-of-chatbots.md)**  
   *An architectural critique of web-based chat wrappers and an engineering blueprint for sub-25ms native Win32 desktop actuation.*  
   `Systems Architecture` &bull; `6 min read`
 
-* 📄 **[Deterministic Safety Kernels: Governing Autonomous Computer-Use Agents at Machine Speed](blogs/02-deterministic-safety.md)**  
+* 📄 **[Deterministic Safety Kernels: Governing Autonomous Computer-Use Agents at Machine Speed](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib/blob/main/blogs/02-deterministic-safety.md)**  
   *Why LLM self-moderation is mathematically flawed, and how to implement zero-trust deterministic risk matrices with process-tree emergency stops.*  
   `Safety & Security` &bull; `5 min read`
 
-* 📄 **[Sovereign Multi-Sector Intelligence: Overcoming the Single-Provider Bottleneck](blogs/03-sovereign-ai-routing.md)**  
+* 📄 **[Sovereign Multi-Sector Intelligence: Overcoming the Single-Provider Bottleneck](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib/blob/main/blogs/03-sovereign-ai-routing.md)**  
   *Designing resilient dynamic inference routing: multi-provider failover mechanics and zero-cloud offline heuristic execution.*  
   `Distributed Systems` &bull; `5 min read`
 
