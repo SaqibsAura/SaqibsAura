@@ -1,19 +1,18 @@
 ```text
-┌── saqib@workstation: ~ (fastfetch --founder-profile) ───────────────────────────┐
-│                                                                                 │
-│       _______        USER        :: Sheikh Saqib                                │
-│      /      //\      ROLE        :: Founder & Systems Architect                 │
-│     /      //  \     VENTURE     :: iMpact (https://impacts-ai.com)             │
-│    /______//    \    FLAGSHIP    :: ORION (Autonomous Desktop Operating Layer)  │
-│    \______\\    /    FOCUS       :: Agentic Systems • Native OS Runtimes • Local│
-│     \      \\  /     DISCIPLINE  :: Systems Engineering • Deterministic Safety  │
-│      \______\\/      STACK       :: TypeScript • Python • Electron • React • C  │
-│                      LOCATION    :: United Arab Emirates                        │
-│                      UPTIME      :: 13 yrs [Context: 100% Focused on Depth]     │
-│                      STATUS      :: Active — Shipping real software             │
-│                      PHILOSOPHY  :: "Build first. Explain later."               │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
+┌── saqib@workstation: ~ (fastfetch --founder-profile) ────────────────────────────────────────────────┐
+│                                                                                                      │
+│            ●   ●   ●   ●             USER        :: Sheikh Saqib                                     │
+│        ●   ●   ●   ●   ●   ●   ●     ROLE        :: Founder of @iMpacts-AI & Systems Architect       │
+│    ●   ●   ●   ●   ●   ●   ●   ●     VENTURE     :: iMpact (https://impacts-ai.com)                  │
+│  ●   ●   ●   ●   ●   ●   ●   ●   ●   FLAGSHIP    :: ORION (Autonomous Desktop Operating Layer)       │
+│  ●   ●   ●   ●   ●   ●   ●   ●       FOCUS       :: Agentic Systems • Native OS Runtimes • Local AI  │
+│    ●   ●   ●   ●   ●   ●   ●         DISCIPLINE  :: Systems Engineering • Deterministic Safety       │
+│        ●   ●   ●   ●   ●             STACK       :: TypeScript • Python • Electron • React • C       │
+│            ●   ●   ●                 LOCATION    :: United Arab Emirates                             │
+│            ●   ●                     UPTIME      :: 13 yrs [Context: 100% Focused on Depth]          │
+│            ●                         PHILOSOPHY  :: "Build first. Explain later."                    │
+│                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
