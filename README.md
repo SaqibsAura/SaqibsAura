@@ -1,16 +1,25 @@
 ```text
 ┌── saqib@workstation: ~ (fastfetch --founder-profile) ────────────────────────────────────────────────┐
 │                                                                                                      │
-│            ●   ●   ●   ●             USER        :: Sheikh Saqib                                     │
-│        ●   ●   ●   ●   ●   ●   ●     ROLE        :: Founder of @iMpacts-AI & Systems Architect       │
-│    ●   ●   ●   ●   ●   ●   ●   ●     VENTURE     :: iMpact (https://impacts-ai.com)                  │
-│  ●   ●   ●   ●   ●   ●   ●   ●   ●   FLAGSHIP    :: ORION (Autonomous Desktop Operating Layer)       │
-│  ●   ●   ●   ●   ●   ●   ●   ●       FOCUS       :: Agentic Systems • Native OS Runtimes • Local AI  │
-│    ●   ●   ●   ●   ●   ●   ●         DISCIPLINE  :: Systems Engineering • Deterministic Safety       │
-│        ●   ●   ●   ●   ●             STACK       :: TypeScript • Python • Electron • React • C       │
-│            ●   ●   ●                 LOCATION    :: United Arab Emirates                             │
-│            ●   ●                     UPTIME      :: 13 yrs [Context: 100% Focused on Depth]          │
-│            ●                         PHILOSOPHY  :: "Build first. Explain later."                    │
+│              ●   ●   ●   ●            OS          :: Windows 11 Pro [Dev Ring] + WSL2 Linux          │
+│                                       HOST        :: saqib-workstation [x86_64 / Native]             │
+│          ●   ●   ●   ●   ●   ●   ●    USER        :: Sheikh Saqib                                    │
+│                                       ROLE        :: Founder of @iMpacts-AI & Systems Architect      │
+│      ●   ●   ●   ●   ●   ●   ●   ●    VENTURE     :: iMpact (https://impacts-ai.com)                 │
+│                                       FLAGSHIP    :: ORION — Autonomous Desktop Operating Layer      │
+│    ●   ●   ●   ●   ●   ●   ●   ●      REPOSITORY  :: github.com/iMpacts-AI/ORION                     │
+│                                       FOCUS       :: Agentic Computer-Use • Native Desktop Runtimes  │
+│    ●   ●   ●   ●   ●   ●   ●   ●      DISCIPLINE  :: Systems Architecture • Deterministic Safety     │
+│                                       ACTUATION   :: Sub-25ms Win32 OS Injection + Optical Diffs     │
+│      ●   ●   ●   ●   ●   ●   ●        INFERENCE   :: Dynamic Multi-Model Routing + Local Heuristics  │
+│                                       LANGUAGES   :: TypeScript • Python 3.12 • Node.js • C/Win32    │
+│          ●   ●   ●   ●   ●            FRAMEWORKS  :: Electron 33 • React 18 • Three.js • Vite        │
+│                                       SECURITY    :: Zero-Trust ActionRiskEvaluator • PID Trees      │
+│              ●   ●   ●                LOCATION    :: United Arab Emirates                            │
+│                                       UPTIME      :: 13 yrs [Context: 100% Focused on Depth]         │
+│              ●   ●                    STATUS      :: Active — Building & shipping real software      │
+│                                       MOTTO       :: "Build first. Explain later."                   │
+│              ●                        PORTAL      :: https://github.com/SaqibsAura                   │
 │                                                                                                      │
 └──────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
