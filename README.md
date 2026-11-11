@@ -2,12 +2,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
-  <img src="assets/logo-light.png" alt="Sheikh Mohammed Saqib: Network · Reason · Impact" width="420">
+  <img src="assets/logo-light.png" alt="Sheikh Mohammed Saqib: Network Â· Reason Â· Impact" width="420">
 </picture>
 
 <br><br>
 
-**Founder of [iMpact AI](https://impacts-ai.com) · Building [ORION](https://impacts-ai.com/orion) · UAE**
+**Founder of [iMpact AI](https://impacts-ai.com) Â· Building [ORION](https://impacts-ai.com/orion) Â· UAE**
 
 I build AI agents that do real work on a computer, and the engineering that makes them safe to trust.
 
@@ -21,9 +21,9 @@ I build AI agents that do real work on a computer, and the engineering that make
 
 ### Highlights
 
-- **Founder of [iMpact AI](https://impacts-ai.com)**, an AI technology company building practical, trustworthy agents.
+- **13-year-old founder of [iMpact AI](https://impacts-ai.com)**, an AI technology company engineering verifiable, permission-first autonomous agents.
 - **Building [ORION](https://impacts-ai.com/orion)**: a permission-based AI agent that operates your computer for you.
-- **UAE Hackathon 2026 by TDRA**: selected to present a live ORION prototype (Sharjah, 2–4 November 2026, Responsible AI / Smart Government track).
+- **UAE Hackathon 2026 by TDRA**: selected to present a live ORION prototype (Sharjah, 2â€“4 November 2026, Responsible AI / Smart Government track).
 - **Shipped a public [ORION showcase](https://github.com/iMpacts-AI/ORION)** with a one-command installer for Windows, macOS, Linux and ChromeOS.
 - **Run the [iMpacts-AI](https://github.com/iMpacts-AI) GitHub organisation.**
 
@@ -37,11 +37,11 @@ You say what you want in plain words, like *"yo, pull up youtube"* or *"make a p
 and ORION carries out the steps on your computer.
 
 ```text
-you   › make a pdf about the benefits of reading
-orion › plan      write → render → open            
-orion › approve?  create file  Documents\reading.pdf  [y/n]
-you   › y
-orion › verify    file exists · 3 pages · opened      ✓ done
+you   â€º make a pdf about the benefits of reading
+orion â€º plan      write â†’ render â†’ open            
+orion â€º approve?  create file  Documents\reading.pdf  [y/n]
+you   â€º y
+orion â€º verify    file exists Â· 3 pages Â· opened      âœ“ done
 ```
 <sub>The shape of every task: plan, ask, act, verify. Illustrative, not a recorded session.</sub>
 
@@ -98,8 +98,8 @@ Plus **Ollama** for local models.
 
 <div align="center">
 
-**[impacts-ai.com](https://impacts-ai.com)** · **[impacts-ai.com/orion](https://impacts-ai.com/orion)** · **[github.com/iMpacts-AI](https://github.com/iMpacts-AI)**
+**[impacts-ai.com](https://impacts-ai.com)** Â· **[impacts-ai.com/orion](https://impacts-ai.com/orion)** Â· **[github.com/iMpacts-AI](https://github.com/iMpacts-AI)**
 
-<sub>NETWORK · REASON · IMPACT</sub>
+<sub>NETWORK Â· REASON Â· IMPACT</sub>
 
 </div>
